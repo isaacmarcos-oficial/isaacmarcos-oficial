@@ -23,8 +23,8 @@
 <br>
   
 <div align="center">  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=isaacmarcos-oficial&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmarcos-oficial&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=isaacmarcos-oficial&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmarcos-oficial&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </div>
 
 <div align="center">
