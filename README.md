@@ -23,8 +23,8 @@
 <br>
   
 <div align="center">  
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=isaacmarcos-oficial&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmarcos-oficial&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacmarcos-oficial&show_icons=true&theme=vision-friendly-dark" alt="isaac marcos stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmarcos-oficial&layout=compact&theme=vision-friendly-dark" alt="isaacmarcos most languages"/>
 </div>
 
 <div align="center">
@@ -37,8 +37,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-</div>
 
+
+ ![Snake animation](https://github.com/isaacmarcos-oficial/isaacmarcos/blob/main/github-user-contribution.svg)
+
+</div>
 <p align="center">
 <a href="https://www.linkedin.com/in/isaacmarcosoficial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Isaac Marcos" height="20" width="20" /></a>
 <a href="https://www.facebook.com/scdesignweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Isaac Marcos" height="20" width="20" /></a>
